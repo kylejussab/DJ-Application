@@ -1,2 +1,2 @@
 # DJ-Application
-My final submission for my Object Oriented Programming module
+A DJ application made using the JUCE library!
